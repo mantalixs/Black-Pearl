@@ -1,0 +1,6 @@
+D:\tio\laba 4\laba 4\obj\Debug\laba 4.csproj.AssemblyReference.cache
+D:\tio\laba 4\laba 4\obj\Debug\laba 4.csproj.CoreCompileInputs.cache
+D:\tio\laba 4\laba 4\bin\Debug\laba_4.exe
+D:\tio\laba 4\laba 4\bin\Debug\laba_4.pdb
+D:\tio\laba 4\laba 4\obj\Debug\laba_4.exe
+D:\tio\laba 4\laba 4\obj\Debug\laba_4.pdb
